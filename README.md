@@ -1,7 +1,7 @@
 # Smart Farm System
 
 <p align="justify">
-This project is an advanced agricultural solution designed to optimize farming practices through the integration of embedded systems and IoT technologies. This project employs a variety of sensors to continuously monitor environmental conditions such as temperature, humidity, soil moisture, and light intensity. By collecting and analyzing this data, the system can automate responses to maintain optimal conditions for crop growth, thereby improving overall farm efficiency and productivity.
+This project is an advanced agricultural solution designed to optimize farming practices through the integration of embedded systems and IoT technologies. Utilizing a Raspberry Pi and ThingSpeak, this project employs a variety of sensors to continuously monitor environmental conditions such as temperature, humidity, soil moisture, and light intensity. By collecting and analyzing this data, the system can automate responses to maintain optimal conditions for crop growth, thereby improving overall farm efficiency and productivity.
 </p>
 
 ## Key Features & Technologies
